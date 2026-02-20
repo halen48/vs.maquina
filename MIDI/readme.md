@@ -1,4 +1,4 @@
-# 🎵 TiMidity++: O Som da Resistência (Guia de Instalação)
+# 🎵 TiMidity++: Guia de Instalação
 
 **Aviso de Sistema:** Você está prestes a libertar seus arquivos MIDI das garras dos sintetizadores corporativos sem alma. O TiMidity++ é software livre, é raiz, e converte MIDI para áudio usando SoundFonts reais. Nada de depender da placa de som de plástico que veio no seu PC.
 
@@ -79,5 +79,3 @@ Quer converter o hino do seu clã para `.wav` ou `.ogg` para mandar no grupo?
 
 * **Para .wav:** `timidity musica.mid -Ow -o musica.wav`
 * **Para .ogg:** `timidity musica.mid -Ov -o musica.ogg`
-
-**O sistema é deles, mas a música é nossa!**
