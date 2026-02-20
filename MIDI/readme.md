@@ -81,7 +81,3 @@ Quer converter o hino do seu clã para `.wav` ou `.ogg` para mandar no grupo?
 * **Para .ogg:** `timidity musica.mid -Ov -o musica.ogg`
 
 **O sistema é deles, mas a música é nossa!**
-
----
-
-Gostou do manifesto? Quer que eu te ajude a encontrar e configurar um SoundFont de alta qualidade para o TiMidity++ ou prefere procurar uns arquivos MIDI de jogos clássicos para testar?
